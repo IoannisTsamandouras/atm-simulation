@@ -8,7 +8,7 @@ $ git clone https://github.com/IoannisTsamandouras/atm-simulation.git
 
 
 
-How to run 
+How to run
 
 You need to have Java 8 and Maven installed to run the application.
 
